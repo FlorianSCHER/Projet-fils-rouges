@@ -62,13 +62,8 @@ main {
     line-height: 1.2; /* Espacement entre les lignes */
 }
 
-main h2 span {
-    display: block; /* Le texte dans le span apparaît sur une nouvelle ligne */
-    color: #1bd79e; /* Couleur verte pour les mots importants */
-}
-
 /* Styles pour tous les span */
-main h2 span {
+span {
     color: #1bd79e; /* Couleur verte pour tous les span */
 }
 
